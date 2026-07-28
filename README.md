@@ -32,6 +32,8 @@ Gold Layer:
 - Fact table
 - Business-ready analytical views
 
+![Data Flow](https://github.com/vipulpadwal11/sql-data-warehouse/blob/main/docs/data_flow.png?raw=true)
+
 ---
 
 ## Project Workflow
