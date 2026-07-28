@@ -17,16 +17,16 @@ This project was recreated for learning purposes based on the SQL Data Warehouse
 
 ## Architecture
 
-Bronze Layer
+Bronze Layer:
 - Raw data ingestion using BULK INSERT
 
-Silver Layer
+Silver Layer:
 - Data cleansing
 - Standardization
 - Null handling
 - Data quality checks
 
-Gold Layer
+Gold Layer:
 - Star schema
 - Dimension tables
 - Fact table
