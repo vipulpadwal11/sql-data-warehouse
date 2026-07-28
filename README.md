@@ -1,13 +1,13 @@
-# Data Warehouse and Analytics Project
+# 🏗️ Data Warehouse and Analytics Project
 
-## Overview
+## 📖 Overview
 This project demonstrates the design and implementation of a SQL-based Data Warehouse using the Bronze, Silver, and Gold architecture. It covers data ingestion, cleansing, transformation, dimensional modeling, and analytical views using Microsoft SQL Server.
 
 This project was recreated for learning purposes based on the SQL Data Warehouse project by Data With Baraa, with the goal of gaining hands-on experience in ETL pipelines, data modeling, and SQL best practices.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - Microsoft SQL Server
 - Draw.io 
@@ -15,18 +15,18 @@ This project was recreated for learning purposes based on the SQL Data Warehouse
 
 ---
 
-## Architecture
+## 📂 Architecture
 
-Bronze Layer:
+🥉Bronze Layer:
 - Raw data ingestion using BULK INSERT
 
-Silver Layer:
+🥈Silver Layer:
 - Data cleansing
 - Standardization
 - Null handling
 - Data quality checks
 
-Gold Layer:
+🥇Gold Layer:
 - Star schema
 - Dimension tables
 - Fact table
@@ -36,7 +36,7 @@ Gold Layer:
 
 ---
 
-## Project Workflow
+## 🔄Project Workflow
 
 1. Created the Data Warehouse database.
 2. Created Bronze, Silver, and Gold schemas.
@@ -47,7 +47,7 @@ Gold Layer:
 
 ---
 
-## SQL Concepts Practiced
+## 💡SQL Concepts Practiced
 
 - CTEs
 - Window Functions
@@ -65,7 +65,7 @@ Gold Layer:
 
 ---
 
-## Key Learnings
+## 📚 Key Learnings
 
 - Building a multi-layer data warehouse
 - Implementing ETL workflows in SQL Server
